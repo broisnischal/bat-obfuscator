@@ -1,3 +1,5 @@
+const Code = document.getElementById('Code');
+
 function printCode() {
 	var textarea = document.getElementById('Code');
 	var textareaobf = document.getElementById('ObfCode');
